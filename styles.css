@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+@media screen (max-width:300px){
+	
+}
+.col sm-4{
+	display:flex;
+}
